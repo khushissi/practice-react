@@ -3,7 +3,7 @@ const App = ()=>
 {
   const [todo, setTodo] = useState([])
   const [editingFlag, setEditing] = useState(-1)
-  //development
+  //feature
   function addTodo()
   {
     console.log("------------addTodo------------")
